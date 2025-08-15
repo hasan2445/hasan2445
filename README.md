@@ -1,5 +1,4 @@
-<!-- Banner Image (Optional - Replace URL with your own) -->
-![Banner](https://i.imgur.com/w1B8z7V.png)
+
 
 # 👋 Hey, I'm Mohammad Hasan
 
@@ -49,23 +48,7 @@ AI-powered platform for **image generation & editing**.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasan2445&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan2445&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan2445&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-![snake gif](https://github.com/hasan2445/hasan2445/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
