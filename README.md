@@ -41,7 +41,7 @@ Currently, I am developing SaaS tools and full-stack platforms with **Node.js, E
 ## 📫 Connect with Me
 
 * [GitHub](https://github.com/hasan2445)
-* [LinkedIn](#)
+* [LinkedIn](www.linkedin.com/in/hasan2445)
 * [Email](mailto:your.email@example.com)
 
 ---
