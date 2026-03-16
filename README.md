@@ -2,8 +2,6 @@
 # Hi, I'm Mohammad Hasan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasan2445\&label=Profile%20Views\&color=0e75b6\&style=flat)
-[![Followers](https://img.shields.io/github/followers/hasan2445?label=Followers\&style=social)](https://github.com/hasan2445?tab=followers)
-[![Stars](https://img.shields.io/github/stars/hasan2445?label=Stars\&style=social)](https://github.com/hasan2445)
 
 ---
 
