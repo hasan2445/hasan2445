@@ -6,37 +6,38 @@
 
 ## 🤖 About Me
 
-I am an **AI/ML Enthusiast** and **Python Developer**, passionate about building intelligent systems that solve real-world problems using **Machine Learning** and **Natural Language Processing**.
+I build **Machine Learning systems that tackle misinformation and real-world classification problems** — combining NLP, statistical modeling, and clean deployment into working products, not just notebooks.
 
-Currently, I build ML-powered applications — from **NLP-based classifiers** to **AI-integrated web tools** — combining data science with practical, deployable solutions.
+My focus: taking ML from research to production — data preprocessing, feature engineering, model training, and shipping it as something people can actually use.
 
-* 🚀 Working on: Machine Learning & NLP-based applications
-* 🌱 Learning: Deep Learning (CNNs), Computer Vision, and Cloud AI deployment
-* 🛠️ Open for: AI/ML Internships, Freelance, and Collaborations
+* 🔍 Focus Area: NLP & Text Classification (misinformation / fake news detection)
+* 🌱 Currently Expanding Into: Deep Learning (CNNs), Computer Vision, and applied Generative AI
 * 🏅 Certified: Microsoft Certified – Azure AI Fundamentals
+* 🛠️ Open for: AI/ML Internships & Research Collaborations
 * 📍 Based in: India
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript
-* **Machine Learning / NLP:** Scikit-learn, NLTK, TF-IDF, Logistic Regression, Pandas, NumPy
-* **AI Tools & APIs:** OpenAI APIs, Hugging Face, Tesseract.js
-* **App Deployment:** Streamlit, Render, Vercel
-* **Web Development:** React, Next.js, Node.js, Express, MongoDB, Tailwind CSS
-* **Tools:** Git, GitHub, Jupyter Notebook, Postman
+* **Languages:** Python
+* **Machine Learning:** Scikit-learn, Logistic Regression, TF-IDF Vectorization, Pandas, NumPy
+* **NLP:** NLTK, Text Preprocessing, Stemming, Feature Engineering
+* **AI Tools:** OpenAI APIs, Hugging Face Transformers
+* **Deployment:** Streamlit, Render, Vercel
+* **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-* [**Fake News Detection using Machine Learning**](https://github.com/hasan2445/Fake-News-Detection-Machine-Learning-Scam-Detection-NLP-main) – NLP-based web app that classifies news articles as Real or Fake using TF-IDF vectorization and Logistic Regression, deployed with Streamlit.
-* [**Imagify-Ai**](https://github.com/hasan2445/Imagify-Ai) – AI-powered image generation & editing tool.
-* [**Expense Tracker**](https://github.com/hasan2445/expense-tracker) – Smart expense management system with data-driven insights.
-* [**Doctor Appointment JMI**](https://github.com/hasan2445/doctor-appointment-jmi) – Full-stack doctor appointment booking platform.
+### [Fake News Detection using Machine Learning](https://github.com/hasan2445/Fake-News-Detection-Machine-Learning-Scam-Detection-NLP-main)
+An NLP-driven system that classifies news articles as **Real or Fake**, addressing the growing problem of misinformation on digital platforms.
+* Built a full text-processing pipeline (cleaning, stopword removal, Porter stemming) feeding into **TF-IDF vectorization**
+* Trained and evaluated a **Logistic Regression** classifier on a labeled news dataset
+* Deployed as an interactive **Streamlit** web app for real-time predictions
 
-> All repositories are **working projects**, with ongoing updates and improvements.
+> Actively iterating on this project — next steps include expanding beyond headline-only classification to full-article analysis, and benchmarking against deep learning approaches (LSTM/BERT).
 
 ---
 
