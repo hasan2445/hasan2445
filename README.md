@@ -129,7 +129,7 @@ Coursework        Operating Systems · Computer Networks · OOP
 
 [#github-stats](#github-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasan2445&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hasan2445&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan2445&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
 
