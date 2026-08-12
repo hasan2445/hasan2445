@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hasan2445-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan2445)
 [![GitHub](https://img.shields.io/badge/GitHub-hasan2445-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan2445)
+[![LeetCode](https://img.shields.io/badge/LeetCode-godiswithme786-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/godiswithme786)
 [![Email](https://img.shields.io/badge/Email-hasanmohammad2445%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasanmohammad2445@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hasan2445&style=flat-square&color=brightgreen)](https://github.com/hasan2445)
@@ -129,10 +130,6 @@ Coursework        Operating Systems · Computer Networks · OOP
 [#github-stats](#github-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasan2445&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan2445&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan2445&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
 
 ---
 
