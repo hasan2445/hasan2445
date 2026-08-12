@@ -1,338 +1,146 @@
-<div align="center">
+# Mohammad Hasan
 
-<img src="assets/banner.svg" alt="Coding Club RVCE — Engineering Division" width="100%">
+**`🤖 AI/ML Engineer · 🧠 CS Undergrad @ Jamia Millia Islamia · 💻 Competitive Programmer · 🔍 1000+ Problems Solved`**
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hasan2445-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan2445)
+[![GitHub](https://img.shields.io/badge/GitHub-hasan2445-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan2445)
+[![LeetCode](https://img.shields.io/badge/LeetCode-godiswithme786-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/godiswithme786)
+[![Email](https://img.shields.io/badge/Email-hasanmohammad2445%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasanmohammad2445@gmail.com)
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=ENGINEERING+BEYOND+THE+CLASSROOM.;NOT+A+SPECTATOR+SPORT.;LEARNED+BY+BUILDING.&animation=stroke&color=4FD8EB&font=code&size=20&center=true&background=00000000" alt="Drafted tagline" height="40">
+[![Profile Views](https://komarev.com/ghpvc/?username=hasan2445&style=flat-square&color=brightgreen)](https://github.com/hasan2445)
 
-<br><br>
+---
 
-<a href="https://github.com/codingclubrvce"><img src="https://img.shields.io/badge/GITHUB-codingclubrvce-0A1B2E?style=for-the-badge&logo=github&logoColor=4FD8EB&labelColor=0A1B2E"></a>
-<a href="https://www.linkedin.com/company/coding-club-rvce/"><img src="https://img.shields.io/badge/LINKEDIN-Coding_Club_RVCE-0A1B2E?style=for-the-badge&logo=linkedin&logoColor=4FD8EB&labelColor=0A1B2E"></a>
-<a href="mailto:codingclub@rvce.edu.in"><img src="https://img.shields.io/badge/EMAIL-codingclub%40rvce.edu.in-0A1B2E?style=for-the-badge&logo=gmail&logoColor=4FD8EB&labelColor=0A1B2E"></a>
-<a href="https://rvce.edu.in"><img src="https://img.shields.io/badge/RV_COLLEGE-Bengaluru-0A1B2E?style=for-the-badge&logo=googlemaps&logoColor=4FD8EB&labelColor=0A1B2E"></a>
+## Building Real-World AI, One Model at a Time 🚀
 
-<br><br>
+> CS undergrad at Jamia Millia Islamia, New Delhi, building end-to-end ML systems — from CNNs for computer vision to NLP pipelines for text classification — and solving 1000+ DSA problems along the way.
 
-<img src="https://dynamic-repo-badges.vercel.app/svg/count/4/1/codingclubrvce-readme" alt="live telemetry" height="46">
+AI/ML Engineer focused on turning research ideas into deployed, working applications. Comfortable across the full pipeline: data preprocessing, model training, evaluation, and shipping a usable interface (Streamlit) on top.
 
-<br><br>
+**About Me — Full Story ↓**
 
-🧭&nbsp;<a href="#sheet-00--manifesto">MANIFESTO</a>&nbsp;&nbsp;·&nbsp;&nbsp;🏛️&nbsp;<a href="#sheet-01--organization">ORG</a>&nbsp;&nbsp;·&nbsp;&nbsp;🧪&nbsp;<a href="#sheet-02--the-labs">LABS</a>&nbsp;&nbsp;·&nbsp;&nbsp;⚙️&nbsp;<a href="#sheet-03--technology-stack">STACK</a>&nbsp;&nbsp;·&nbsp;&nbsp;🛡️&nbsp;<a href="#sheet-04--operations">OPS</a>&nbsp;&nbsp;·&nbsp;&nbsp;📦&nbsp;<a href="#sheet-05--engineering-archive">ARCHIVE</a>&nbsp;&nbsp;·&nbsp;&nbsp;🤝&nbsp;<a href="#sheet-06--community">COMMUNITY</a>
+I'm a Computer Science undergraduate at Jamia Millia Islamia (2023–2027), with a strong foundation in Data Structures, Algorithms, Operating Systems, Computer Networks, and OOP. Outside of coursework, I build practical AI/ML projects — real-time computer vision systems, NLP-based classifiers, and regression models — and deploy them as usable web apps rather than leaving them as notebooks.
 
-</div>
+### Where I Started
 
-<img src="assets/divider.svg" width="100%">
+[#where-i-started](#where-i-started)
 
-<div align="center">
+My path into tech began with strong academic fundamentals — school topper in Class 10, 92% in Higher Secondary, and now a 7.83 CGPA in my B.Tech. That foundation pushed me toward problem-solving at scale, which is where competitive programming came in.
 
-## 🧭&nbsp; SHEET 00 · MANIFESTO
+### The Competitive Programmer
 
-</div>
+[#the-competitive-programmer](#the-competitive-programmer)
 
-The Coding Club at **RV College of Engineering** exists to create an environment where students learn technology the way it is practiced in the real world — not through isolated assignments or memorization, but by building products, writing maintainable code, solving hard problems, and contributing to open source.
+I've solved 1000+ problems across LeetCode, GeeksforGeeks, HackerRank, and CodeChef, reaching a LeetCode rating of 1722+, a 5-star HackerRank Problem Solving badge, and a 3-star CodeChef rating. As a Subject Matter Expert at Chegg India, I solved 500+ DSA questions for students, improving solution efficiency by ~30% on average while maintaining a 4/5 quality rating.
 
-<div align="center">
+### Where Art Meets Data
 
-> ### `→` To transform curious students into capable engineers.
+[#where-art-meets-data](#where-art-meets-data)
 
-<img src="assets/waveform.svg" width="100%" alt="Signal trace">
+I build systems that go from raw data to real predictions: a CNN-based face mask detector running real-time inference on webcam frames, a TF-IDF + Logistic Regression pipeline for fake news detection, and regression models (Ridge, Gradient Boosting) for house price prediction — each one deployed as a working app, not just a notebook.
 
-<br>
+### Current Obsessions
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0A1B2E&quoteColor=EAF2F8&authorColor=4FD8EB&symbolColor=2E5C88" width="600" alt="Live engineering quote">
+[#current-obsessions](#current-obsessions)
 
-<sub>↑ refreshes with a new quote on every visit</sub>
+Right now I'm deep in Machine Learning and Deep Learning — CNNs, NLP pipelines, and model deployment with Streamlit — while also contributing to AI model evaluation as a freelance AI Trainer at Outlier.
 
-<br><br>
+### The Eternal Student
 
-| 📐 Principle | Specification |
-|:--|:--|
-| **01 — Build First** | Ideas become valuable only after they are implemented |
-| **02 — Learn Continuously** | Technology evolves every day. So do we |
-| **03 — Share Knowledge** | Every workshop and repository compounds the community's growth |
-| **04 — Engineer with Purpose** | We build to solve problems and create meaningful impact — not to complete an assignment |
+[#the-eternal-student](#the-eternal-student)
 
-</div>
+I'm Microsoft Certified in Azure AI Fundamentals, and I keep testing myself in hackathons and coding competitions — semi-finalist at Amazon HackOn, and top 2% (1,500 of 83,000+) in Google's Big Code competition.
 
-<img src="assets/divider.svg" width="100%">
+---
 
-<div align="center">
+## Recognition & Credentials
 
-## 🏛️&nbsp; SHEET 01 · ORGANIZATION
+[#recognition--credentials](#recognition--credentials)
 
-</div>
+| ☁️ **Microsoft Certified**<br>Azure AI Fundamentals | 🏆 **Amazon HackOn**<br>Semi-finalist | 🎯 **Google Big Code**<br>Top 2% (1,500 / 83,000+) | ⭐ **HackerRank**<br>5-Star Problem Solving | 🥇 **LeetCode**<br>Rating 1722+ |
+|---|---|---|---|---|
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+---
+
+## Flagship Projects 🌟
+
+[#flagship-projects-](#flagship-projects-)
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Facial Mask Detection](https://github.com/hasan2445)** | Real-time CNN-based face mask detector — classifies webcam frames as "Mask"/"No Mask" with 82% accuracy on 10,000+ labeled images. Full pipeline: OpenCV face detection → CNN classification → live video overlay. | Python · OpenCV · TensorFlow · CNN · NumPy |
+| **[Fake News Detection](https://github.com/hasan2445)** | Logistic Regression classifier trained on 20,000+ labeled news articles using TF-IDF vectorization, achieving 82% accuracy on an 80/20 held-out split. Custom NLP preprocessing pipeline (regex cleaning, stopword removal, Porter stemming) and stratified splitting for unbiased evaluation. | Python · Pandas · Scikit-learn · NLTK · Streamlit |
+| **[House Price Prediction](https://github.com/hasan2445)** | Built and benchmarked Ridge Regression and Gradient Boosting models on 15,000+ records with 20+ engineered features, reaching an R² of 0.89 (RMSE ~$8,000). Deployed the best model as a real-time Streamlit app. | Python · Pandas · Scikit-learn · Streamlit |
+
+> 📝 Update the links above with your actual repo URLs once you send them over.
+
+---
+
+## Competition & Platform Record 🏆
+
+[#competition--platform-record-](#competition--platform-record-)
+
+| Result | Where | Detail |
+|---|---|---|
+| 🏆 **Semi-finalist** | Amazon HackOn | National-level hackathon |
+| 🥇 **Top 2% (1,500/83,000+)** | Google Big Code Competition | Large-scale coding challenge |
+| ⭐ **5-Star Badge** | HackerRank | Problem Solving |
+| 🥈 **500+ score** | GeeksforGeeks | Practice platform |
+| 🥉 **3-Star Rating** | CodeChef | Competitive programming |
+| 🎯 **1722+ Rating** | LeetCode | 1000+ problems solved overall |
+
+---
+
+## Experience
+
+[#experience](#experience)
+
+**Subject Matter Expert — Chegg India** *(Mar 2025 – Jun 2025, Remote)*
+Solved 500+ DSA questions for students, maintaining a 4/5 quality rating and improving solution efficiency by ~30% on average. Tech stack: C++, Python, Data Structures, Algorithms.
+
+**Freelance AI Trainer — Outlier**
+Contributed to AI model evaluation and data quality improvement.
+
+---
+
+## What I Work With
+
+[#what-i-work-with](#what-i-work-with)
+
+**Python · Machine Learning · Deep Learning · NLP · Computer Vision**
 
 ```
-LOCATION      Bengaluru, Karnataka, India
-INSTITUTION   RV College of Engineering
-CONTACT       codingclub@rvce.edu.in
-REPOSITORY    github.com/codingclubrvce
-MOTTO         Create · Build · Innovate
-STATUS        Active — All Semesters
+Languages         Python · C++
+
+Machine Learning  Scikit-learn · Pandas · NumPy · Matplotlib
+
+AI / Deep Learning TensorFlow · PyTorch · NLP · CNNs
+
+Tools             Git · GitHub · Jupyter Notebook · VS Code
+
+Deployment        Streamlit
+
+Coursework        Operating Systems · Computer Networks · OOP
 ```
 
-</td>
-<td width="50%" valign="top">
+---
 
-**🛠️ We build** — Production-ready software · AI & ML systems · Web & mobile applications · Cybersecurity challenges · Open-source initiatives
+## GitHub Stats
 
-**🌱 We foster** — Technical curiosity · Engineering discipline · Peer mentorship · Leadership · Community
+[#github-stats](#github-stats)
 
-</td>
-</tr>
-</table>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasan2445&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="assets/divider.svg" width="100%">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan2445&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
 
-<div align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan2445&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
 
-## 🧪&nbsp; SHEET 02 · THE LABS
+---
 
-<sub>FIVE DISCIPLINES · ONE ENGINEERING CULTURE</sub>
-<br><br>
+*"Solve one more problem than yesterday."*
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48"><br><b>🤖 AI / ML</b><br>
-<sub>LLMs · Deep Learning<br>Computer Vision · NLP</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react" width="48"><br><b>🌐 WEB</b><br>
-<sub>Frontend · Backend<br>Cloud · Mobile</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=linux" width="48"><br><b>🛡️ CYBER</b><br>
-<sub>CTFs · Reverse Eng.<br>Forensics · OSINT</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"><br><b>🧮 CP</b><br>
-<sub>Algorithms · DSA<br>Graph Theory</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=solidity" width="48"><br><b>⛓️ BLOCKCHAIN</b><br>
-<sub>Smart Contracts<br>Consensus · DeFi</sub>
-</td>
-</tr>
-</table>
+---
 
-</div>
+*Find me at:*
 
-<img src="assets/divider.svg" width="100%">
-
-<div align="center">
-
-## ⚙️&nbsp; SHEET 03 · TECHNOLOGY STACK
-
-<br>
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,go,rust,kotlin&perline=9">
-
-<br>
-
-**Frontend · Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,svelte,nodejs,express,flask,fastapi,django,spring&perline=9">
-
-<br>
-
-**Data · AI/ML**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,tensorflow,pytorch,opencv&perline=7">
-
-<br>
-
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,githubactions&perline=8">
-
-</div>
-
-<img src="assets/divider.svg" width="100%">
-
-<div align="center">
-
-## 🛡️&nbsp; SHEET 04 · OPERATIONS
-
-<sub>ENGINEERING EXPERIENCES THAT EXTEND FAR BEYOND THE CLASSROOM</sub>
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="25%">🗓️ <b>SEMESTER</b><br><sub>Workshops · Bootcamps<br>Orientation</sub></td>
-<td align="center" width="25%">🚀 <b>MID-SEMESTER</b><br><sub>Hackathons · Open Source<br>Industry Sessions</sub></td>
-<td align="center" width="25%">🏆 <b>COMPETITION SEASON</b><br><sub>CTFs · Competitive Programming</sub></td>
-<td align="center" width="25%">🎓 <b>YEAR END</b><br><sub>Flagship Hackathons<br>Research Showcase</sub></td>
-</tr>
-</table>
-
-</div>
-<br>
-
-<details open>
-<summary><b>🛡️ RVCE × IIT Bombay CTF</b> &nbsp;<sub><code>FLAGSHIP · 1,800+ TEAMS NATIONWIDE</code></sub></summary>
-<br>
-
-Run in collaboration with **IIT Bombay** and **Trust Lab** — one of the largest student-led cybersecurity competitions in the country, spanning Reverse Engineering, Binary Exploitation, Web Security, Cryptography, Digital Forensics, OSINT, and Steganography.
-</details>
-
-<details>
-<summary><b>🚗 Volvo Hackathon</b> &nbsp;<sub><code>INDUSTRY COLLABORATION</code></sub></summary>
-<br>
-
-Built with **Volvo Cars**, tackling real engineering problems in mobility, connected vehicles, intelligent transportation, automation, and sustainability.
-</details>
-
-<details>
-<summary><b>💻 Code Quest</b> &nbsp;<sub><code>MULTI-WEEK COMPETITION</code></sub></summary>
-<br>
-
-A live-leaderboard competitive programming series built to strengthen algorithmic thinking and consistency across the semester.
-</details>
-
-<details>
-<summary><b>🌙 Overnight Hackathon</b> &nbsp;<sub><code>SUNSET → SUNRISE</code></sub></summary>
-<br>
-
-One night, one challenge. Held during RVCE's flagship celebrations — teams prototype, debug, and ship before sunrise.
-</details>
-
-<details>
-<summary><b>🧩 Friday Night Contests</b> &nbsp;<sub><code>WEEKLY · SEMESTER-LONG</code></sub></summary>
-<br>
-
-Weekly competitive programming, followed by editorials, walkthroughs, and peer mentoring — built for consistency over cramming.
-</details>
-
-<details>
-<summary><b>⚔️ Hackémon CTF</b> &nbsp;<sub><code>BEGINNER FRIENDLY</code></sub></summary>
-<br>
-
-A Pokémon-themed, beginner-friendly CTF built by students, for students — real cybersecurity fundamentals with an approachable entry point.
-</details>
-
-<img src="assets/divider.svg" width="100%">
-
-<div align="center">
-
-## 📦&nbsp; SHEET 05 · ENGINEERING ARCHIVE
-
-<sub>EVERY REPOSITORY REPRESENTS AN IDEA THAT BECAME REALITY</sub>
-<br><br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚀 Coding Bootkit**
-<br>The onboarding repository for every first-year engineer — Git, Linux, terminal, networking, web dev, databases, and open source. *Every journey starts here.*
-
-</td>
-<td width="50%" valign="top">
-
-**📚 Placement Prep**
-<br>Years of interview experience, DSA, OS, DBMS, CN, and OOP — continuously improved by every graduating batch.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI-ML-101**
-<br>A practical path from Python-for-ML fundamentals through classical ML, deep learning, CV, and NLP.
-
-</td>
-<td width="50%" valign="top">
-
-**🛠️ Community Projects**
-<br>Internal infrastructure, dev tools, automation, and research prototypes — a new batch every semester.
-
-</td>
-</tr>
-</table>
-
-<sub>📈 growth of the flagship onboarding repo</sub>
-<br>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=codingclubrvce/coding-bootkit&type=Date)](https://star-history.com/#codingclubrvce/coding-bootkit&Date)
-
-<br>
-
-<sub>👥 built by these hands</sub>
-<br>
-
-<img src="https://contrib.rocks/image?repo=codingclubrvce/coding-bootkit">
-
-</div>
-
-<br>
-
-<details>
-<summary><b>🔀 Contribution Workflow</b></summary>
-<br>
-
-```
- FORK → CLONE → BRANCH → BUILD → COMMIT → PUSH → PULL REQUEST → REVIEW → MERGE
-```
-
-Every repository is held to the same standard: readable code, documentation, tests, and thoughtful review.
-</details>
-
-<img src="assets/divider.svg" width="100%">
-
-<div align="center">
-
-## 🤝&nbsp; SHEET 06 · COMMUNITY
-
-<table>
-<tr>
-<td align="center" width="33%">🔎 <b>LEARN</b><br><sub>Remain curious.<br>Never stop asking questions.</sub></td>
-<td align="center" width="33%">🚩 <b>LEAD</b><br><sub>Lead through contribution.<br>Lead through example.</sub></td>
-<td align="center" width="33%">🌱 <b>LEAVE IT BETTER</b><br><sub>Every batch inherits this community —<br>and improves it.</sub></td>
-</tr>
-</table>
-
-<br>
-
-**🎓 Faculty Advisors** — Dr. Sagar B. M. · Dr. Padmashree T. · Rushikesh A. P.
-
-</div>
-
-<img src="assets/divider.svg" width="100%">
-
-<div align="center">
-
-### The next great repository hasn't been written yet.
-
-*Perhaps it'll begin with your first commit.*
-
-<br>
-
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=BUILD.;SHARE.;REPEAT.&animation=neon&color=4FD8EB&font=code&size=30&center=true&background=00000000" alt="closing signature" height="60">
-
-<br>
-
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
-**— Harold Abelson**
-
-<br>
-
-<sub>Made with ♥ at RVCE</sub>
-
-</div>
-
-<!--
-██████████████████████████████████████████████████████████████
- If you're reading this, you inspected the source.
- You'll fit right in. Open an issue. Open a pull request.
- Build something interesting. See you around.
-██████████████████████████████████████████████████████████████
--->
+[LinkedIn](https://linkedin.com/in/hasan2445) · [GitHub](https://github.com/hasan2445) · [LeetCode](https://leetcode.com/godiswithme786) · [Email](mailto:hasanmohammad2445@gmail.com)
