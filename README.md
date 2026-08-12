@@ -139,4 +139,4 @@ Coursework        Operating Systems · Computer Networks · OOP
 
 *Find me at:*
 
-[LinkedIn](https://linkedin.com/in/hasan2445) · [GitHub](https://github.com/hasan2445) · [LeetCode](https://leetcode.com/godiswithme786) · [Email](mailto:hasanmohammad2445@gmail.com)
+[LinkedIn](https://linkedin.com/in/hasan2445) · [GitHub](https://github.com/hasan2445) · [Email](mailto:hasanmohammad2445@gmail.com)
