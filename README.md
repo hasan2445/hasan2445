@@ -107,7 +107,7 @@ Coursework        Operating Systems · Computer Networks · OOP
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hasan2445&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
+![Metrics](https://raw.githubusercontent.com/hasan2445/hasan2445/main/metrics.svg)
 
 ---
 
