@@ -23,31 +23,21 @@ I'm a Computer Science undergraduate at Jamia Millia Islamia (2023–2027), with
 
 ### Where I Started
 
-[#where-i-started](#where-i-started)
-
 My path into tech began with strong academic fundamentals — school topper in Class 10, 92% in Higher Secondary, and now a 7.83 CGPA in my B.Tech. That foundation pushed me toward problem-solving at scale, which is where competitive programming came in.
 
 ### The Competitive Programmer
-
-[#the-competitive-programmer](#the-competitive-programmer)
 
 I've solved 1000+ problems across LeetCode, GeeksforGeeks, HackerRank, and CodeChef, reaching a LeetCode rating of 1722+, a 5-star HackerRank Problem Solving badge, and a 3-star CodeChef rating. As a Subject Matter Expert at Chegg India, I solved 500+ DSA questions for students, improving solution efficiency by ~30% on average while maintaining a 4/5 quality rating.
 
 ### Where Art Meets Data
 
-[#where-art-meets-data](#where-art-meets-data)
-
 I build systems that go from raw data to real predictions: a CNN-based face mask detector running real-time inference on webcam frames, a TF-IDF + Logistic Regression pipeline for fake news detection, and regression models (Ridge, Gradient Boosting) for house price prediction — each one deployed as a working app, not just a notebook.
 
 ### Current Obsessions
 
-[#current-obsessions](#current-obsessions)
-
 Right now I'm deep in Machine Learning and Deep Learning — CNNs, NLP pipelines, and model deployment with Streamlit — while also contributing to AI model evaluation as a freelance AI Trainer at Outlier.
 
 ### The Eternal Student
-
-[#the-eternal-student](#the-eternal-student)
 
 I'm Microsoft Certified in Azure AI Fundamentals, and I keep testing myself in hackathons and coding competitions — semi-finalist at Amazon HackOn, and top 2% (1,500 of 83,000+) in Google's Big Code competition.
 
@@ -55,16 +45,12 @@ I'm Microsoft Certified in Azure AI Fundamentals, and I keep testing myself in h
 
 ## Recognition & Credentials
 
-[#recognition--credentials](#recognition--credentials)
-
 | ☁️ **Microsoft Certified**<br>Azure AI Fundamentals | 🏆 **Amazon HackOn**<br>Semi-finalist | 🎯 **Google Big Code**<br>Top 2% (1,500 / 83,000+) | ⭐ **HackerRank**<br>5-Star Problem Solving | 🥇 **LeetCode**<br>Rating 1722+ |
 |---|---|---|---|---|
 
 ---
 
 ## Flagship Projects 🌟
-
-[#flagship-projects-](#flagship-projects-)
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -77,8 +63,6 @@ I'm Microsoft Certified in Azure AI Fundamentals, and I keep testing myself in h
 ---
 
 ## Competition & Platform Record 🏆
-
-[#competition--platform-record-](#competition--platform-record-)
 
 | Result | Where | Detail |
 |---|---|---|
@@ -93,8 +77,6 @@ I'm Microsoft Certified in Azure AI Fundamentals, and I keep testing myself in h
 
 ## Experience
 
-[#experience](#experience)
-
 **Subject Matter Expert — Chegg India** *(Mar 2025 – Jun 2025, Remote)*
 Solved 500+ DSA questions for students, maintaining a 4/5 quality rating and improving solution efficiency by ~30% on average. Tech stack: C++, Python, Data Structures, Algorithms.
 
@@ -104,8 +86,6 @@ Contributed to AI model evaluation and data quality improvement.
 ---
 
 ## What I Work With
-
-[#what-i-work-with](#what-i-work-with)
 
 **Python · Machine Learning · Deep Learning · NLP · Computer Vision**
 
@@ -126,8 +106,6 @@ Coursework        Operating Systems · Computer Networks · OOP
 ---
 
 ## GitHub Stats
-
-[#github-stats](#github-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasan2445&theme=tokyonight&hide_border=true)](https://github.com/hasan2445)
 
