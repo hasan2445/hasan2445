@@ -1,0 +1,37 @@
+# Save this file as: .github/workflows/metrics.yml
+# in your hasan2445/hasan2445 profile repo (create the repo if it doesn't exist yet).
+#
+# It runs daily, generates an SVG with your GitHub stats + streak calendar,
+# and commits it straight into your repo — no external server, no rate-limit
+# errors, no PAT to manage (uses the repo's built-in GITHUB_TOKEN).
+
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          # --- base sections ---
+          base: header, activity, community, repositories
+          # --- streak / calendar plugin ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # --- languages breakdown (optional, remove if not wanted) ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          # --- theme (tokyonight is not built into metrics, use one of its themes) ---
+          config_timezone: Asia/Kolkata
