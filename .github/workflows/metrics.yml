@@ -1,15 +1,13 @@
-# Save this file as: .github/workflows/metrics.yml
-# in your hasan2445/hasan2445 profile repo (create the repo if it doesn't exist yet).
-#
-# It runs daily, generates an SVG with your GitHub stats + streak calendar,
-# and commits it straight into your repo — no external server, no rate-limit
-# errors, no PAT to manage (uses the repo's built-in GITHUB_TOKEN).
+# Save as: .github/workflows/metrics.yml
+# Replaces your existing file — this adds achievements, notable repo stats,
+# coding habits, recently starred repos, and a nicer color theme on top of
+# what you already had (header/activity/community/repositories + calendar).
 
 name: Metrics
 on:
   schedule:
     - cron: "0 0 * * *"   # once a day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  workflow_dispatch:
   push:
     branches: ["main"]
 
@@ -23,15 +21,45 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          # --- base sections ---
+
+          # ---------- base sections ----------
           base: header, activity, community, repositories
-          # --- streak / calendar plugin ---
+
+          # ---------- theme / look ----------
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_animations: yes
+
+          # ---------- contribution calendar (3D isometric) ----------
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # --- languages breakdown (optional, remove if not wanted) ---
+
+          # ---------- most used languages ----------
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_limit: 8
-          # --- theme (tokyonight is not built into metrics, use one of its themes) ---
-          config_timezone: Asia/Kolkata
+          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+
+          # ---------- achievements badges (polyglot, stargazer, etc.) ----------
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
+
+          # ---------- notable repo stats (stars/forks per repo, badge-scored) ----------
+          plugin_notable: yes
+          plugin_notable_filter: stars:>1, forks:>0
+
+          # ---------- coding habits (commit time-of-day / day-of-week patterns) ----------
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # ---------- recently starred repos ----------
+          plugin_stars: yes
+          plugin_stars_limit: 4
