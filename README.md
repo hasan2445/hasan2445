@@ -107,8 +107,6 @@ Coursework        Operating Systems · Computer Networks · OOP
 
 ## GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/hasan2445/hasan2445/main/metrics.svg)
-
 ---
 
 *"Solve one more problem than yesterday."*
